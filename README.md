@@ -1,4 +1,4 @@
-# Lensify — Upgraded Local Semantic Search Engine (drop-in ready)
+# Lensify — Upgraded Local Semantic Search Engine 
 
 This upgraded Lensify prototype includes the following accuracy improvements:
 - FAISS HNSW index for fast, high-recall retrieval

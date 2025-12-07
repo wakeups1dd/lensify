@@ -1,0 +1,4 @@
+Deep learning is a subset of machine learning focused on neural networks. 
+GANs, also known as Generative Adversarial Networks, are used to generate realistic images. 
+Transformers such as BERT and GPT models excel at language understanding. 
+Loss functions include cross entropy, hinge loss, and adversarial loss.

@@ -1,0 +1,4 @@
+When searching for a function in a codebase, developers often rely on grep or ripgrep. 
+However, these tools only perform keyword search, not semantic understanding. 
+Semantic search can answer queries like "where is this logic implemented" or 
+"which file defines this operation", even when keywords differ.

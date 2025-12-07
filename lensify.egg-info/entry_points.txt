@@ -1,0 +1,2 @@
+[console_scripts]
+lensify = lensify.cli:main

@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+lensify/__init__.py
+lensify/cli.py
+lensify/search.py
+lensify.egg-info/PKG-INFO
+lensify.egg-info/SOURCES.txt
+lensify.egg-info/dependency_links.txt
+lensify.egg-info/entry_points.txt
+lensify.egg-info/requires.txt
+lensify.egg-info/top_level.txt

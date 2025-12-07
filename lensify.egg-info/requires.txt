@@ -1,0 +1,9 @@
+numpy
+faiss-cpu
+PyPDF2
+scikit-learn
+nltk
+tqdm
+
+[:extra == "embeddings"]
+sentence-transformers

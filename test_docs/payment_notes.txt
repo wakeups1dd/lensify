@@ -1,0 +1,4 @@
+Payment risk simulation models are commonly used in fintech and banking. 
+They help estimate fraud probability, predict chargebacks, and evaluate transaction anomalies. 
+A good system usually uses logistic regression, anomaly detection models, graph-based features, 
+and rule-based filters. Risk scoring is calculated using both static and behavioral user attributes.
